@@ -70,8 +70,8 @@ I'm a **Senior PHP & WordPress Developer** with deep expertise in building produ
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oiahamzayy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/oiahamzayy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/oiahamzayy](https://www.linkedin.com/in/hamza-tuf/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.mhamzakhan@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~019556b8d0863ddb13?mp_source=share)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0073AA&height=80&section=footer" />
